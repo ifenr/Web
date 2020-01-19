@@ -1,4 +1,14 @@
+#Site Settings
 title: ifenr
 Site Destination: Just a borken jar !
+email: ifenr@qq.com
+description: ifenr's static pages!
 theme: jekyll-theme-minimal
-url: http://ifenr.cn
+url: "http://ifenr.cn"
+baseurl: "http://ifenr.cn"
+#Sidebar Settings
+Sidebar: true
+Sidebar-about-description: "Try,try again!"
+# SNS settings
+RSS: true
+github_username: ifenr
